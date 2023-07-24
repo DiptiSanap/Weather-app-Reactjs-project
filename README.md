@@ -24,7 +24,7 @@ The weather app is a user-friendly application that provides accurate weather in
 
 ## Deployment
 
-View my deployment on Netlify : <a href="https://tk-weatherapp.netlify.app/">https://tk-weatherapp.netlify.app/</a>
+View my deployment on GitHub pages : https://diptisanap.github.io/Weather-app-Reactjs-project
 
 ## Setup
 
