@@ -10,7 +10,7 @@ The weather app is a user-friendly application that provides accurate weather in
 - **User-Friendly Interface:** The intuitive and visually appealing interface makes it easy for users to navigate and find the desired weather information effortlessly.
 - **Additional Weather Details:** Along with the basic weather information, the app may include additional details such as min/max temperature, atmospheric pressure, humidity, and more, depending on the weather API used.
 
-## Screenshot
+## Screenshots
 
 ![image](https://github.com/DiptiSanap/Weather-app-Reactjs-project/assets/107847530/0bab7620-6278-4636-8395-3328d862630b)
 
