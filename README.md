@@ -12,7 +12,15 @@ The weather app is a user-friendly application that provides accurate weather in
 
 ## Screenshot
 
-![weatherapp-ss](https://github.com/Thirumalaikumar-M/Weather-App/assets/111740460/c816a3e8-1f3d-499b-b878-ef94d81b7f0c)
+![image](https://github.com/DiptiSanap/Weather-app-Reactjs-project/assets/107847530/0bab7620-6278-4636-8395-3328d862630b)
+
+![image](https://github.com/DiptiSanap/Weather-app-Reactjs-project/assets/107847530/6538e027-9463-4b8d-90d3-4e5cfcbdcd3e)
+
+![image](https://github.com/DiptiSanap/Weather-app-Reactjs-project/assets/107847530/32e5d97c-7b96-44ce-b87d-ce0a65b781fb)
+
+
+
+
 
 ## Deployment
 
